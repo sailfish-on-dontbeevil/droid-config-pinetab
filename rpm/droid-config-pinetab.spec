@@ -4,7 +4,7 @@
 %define device pinetab
 %define vendor pine
 
-%define vendor_pretty Pine
+%define vendor_pretty Pine64
 %define device_pretty Pinetab
 
 # Community HW adaptations need this
