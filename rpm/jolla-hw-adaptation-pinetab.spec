@@ -66,7 +66,7 @@ Requires: geoclue
 # For mounting SD card automatically
 Requires: sd-utils
 
-Requires: droid-hal-kernel-pinetab
+Requires: droid-hal-kernel-pine
 Requires: droid-config-pinetab-sailfish
 Requires: droid-config-pinetab-pulseaudio-settings
 Requires: droid-config-pinetab-policy-settings
