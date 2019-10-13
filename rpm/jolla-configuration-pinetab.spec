@@ -39,5 +39,5 @@ Requires: geoclue-provider-mlsdb
 Requires: csd
 
 %description
-Meta package to install packages for pinetab configurations
+Meta package to install packages for PineTab configurations
 %files 
