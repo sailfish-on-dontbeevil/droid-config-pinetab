@@ -76,6 +76,6 @@ Requires: droid-hal-version-pinetab
 #Requires: droid-config-donebeevil-flashing
 
 %description
-Meta package to install packages for pinetab HW Adaptation
+Meta package to install packages for PineTab HW Adaptation
 %files
  
