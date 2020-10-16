@@ -28,8 +28,9 @@ Requires: jolla-rnd-device
 
 # Jolla Store Items
 Requires: patterns-sailfish-consumer-generic
-
-Requires: sailfish-content-graphics-z1.25
+# We set the ratio to 1.0 and need the corresponding package for the theme
+Requires: sailfish-content-graphics-default-z1.0
+#Requires: sailfish-content-graphics-z1.25
 Requires: jolla-settings-accounts-extensions-3rd-party-all
 
 # For Mozilla location services (online)
