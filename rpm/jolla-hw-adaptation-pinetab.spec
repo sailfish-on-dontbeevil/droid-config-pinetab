@@ -70,7 +70,16 @@ Requires: geoclue
 # For mounting SD card automatically
 Requires: sd-utils
 
-Requires: droid-hal-kernel-pine
+# sound
+Requires: alsa-utils
+
+# Cameras
+Requires: v4l-utils
+
+# Bluetooth binaries
+Requires: realtek-bt-firmware
+
+Requires: kernel-adaptation-pine64
 Requires: droid-config-pinetab-sailfish
 Requires: droid-config-pinetab-pulseaudio-settings
 Requires: droid-config-pinetab-policy-settings
