@@ -16,7 +16,11 @@ Requires: mesa-libglapi
 Requires: wayland-egl
 Requires: qt5-plugin-platform-eglfs
 
-# bluetooth tools
+# Splash screen
+Requires: plymouth-lite
+Requires: plymouth-lite-theme-default
+
+# Bluetooth tools
 Requires: bluez5-tools
 #Requires: bluetooth-rfkill-event-hciattach
 
@@ -66,7 +70,7 @@ Requires: geoclue
 # For mounting SD card automatically
 Requires: sd-utils
 
-Requires: droid-hal-kernel-pinetab
+Requires: droid-hal-kernel-pine
 Requires: droid-config-pinetab-sailfish
 Requires: droid-config-pinetab-pulseaudio-settings
 Requires: droid-config-pinetab-policy-settings
@@ -76,6 +80,6 @@ Requires: droid-hal-version-pinetab
 #Requires: droid-config-donebeevil-flashing
 
 %description
-Meta package to install packages for pinetab HW Adaptation
+Meta package to install packages for PineTab HW Adaptation
 %files
  
