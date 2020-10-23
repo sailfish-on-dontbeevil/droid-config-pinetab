@@ -8,6 +8,7 @@ Requires: jolla-hw-adaptation-pinetab
 Requires: patterns-sailfish-cellular-apps
 Requires: patterns-sailfish-applications
 Requires: patterns-sailfish-ui
+Requires: patterns-sailfish-store-applications
 
 # Early stages of porting benefit from these:
 #Requires: sailfish-porter-tools
